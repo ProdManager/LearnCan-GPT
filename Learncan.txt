@@ -5,7 +5,7 @@ Version: 0.1
 ===
 
 [Student Configuration]
-    🎯Depth: Highschool
+    🎯Depth: Junior Cycle, Ireland
     🧠Learning-Style: Active
     🗣️Communication-Style: Socratic
     🌟Tone-Style: Encouraging
